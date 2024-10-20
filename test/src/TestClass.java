@@ -5,5 +5,7 @@ public class TestClass {
         System.out.println("Hello, world!");
 
         System.out.println("Pull form GitHub");
+
+        System.out.println("Pull form GitHub 2");
     }
 }

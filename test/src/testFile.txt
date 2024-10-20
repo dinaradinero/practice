@@ -1,6 +1,1 @@
 Check if git works 
-
-
-
-
-Check if pull works

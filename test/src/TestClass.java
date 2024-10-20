@@ -7,5 +7,7 @@ public class TestClass {
         System.out.println("Pull form GitHub");
 
         System.out.println("Pull form GitHub 2");
+
+        System.out.println("Pull form GitHub 3");
     }
 }
